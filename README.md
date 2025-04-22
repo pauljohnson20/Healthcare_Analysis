@@ -25,8 +25,8 @@ Healthcare providers often struggle to track treatment costs, procedure-based bi
 
 ### Data Source:
 The dataset contains 8 CSV files:
-  - Fact Table: visit.csv
-  - Dimension Tables: cities.csv, department.csv, diagnoses.csv, insurance.csv, patients.csv, procedures.csv, providers.csv
+  - Fact Table: [visits.csv](https://github.com/user-attachments/files/19849889/visits.csv)
+  - Dimension Tables: [procedures.csv](https://github.com/user-attachments/files/19849885/procedures.csv), [providers.csv](https://github.com/user-attachments/files/19849888/providers.csv), [cities.csv](https://github.com/user-attachments/files/19849892/cities.csv), [departments.csv](https://github.com/user-attachments/files/19849886/departments.csv), [diagnoses.csv](https://github.com/user-attachments/files/19849887/diagnoses.csv), [insurance.csv](https://github.com/user-attachments/files/19849890/insurance.csv), [patients.csv](https://github.com/user-attachments/files/19849891/patients.csv)
 
 ### Tools Used:
   - Microsoft Excel (Data Cleaning)
